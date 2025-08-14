@@ -29,7 +29,7 @@ I'm a software engineer focused on Autonomous Systems and Artificial Intelligenc
   <!-- AI / Machine Learning Frameworks -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/640px-OpenCV_Logo_with_text_svg_version.svg.png" alt="OpenCV" title="OpenCV" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/3979232?s=200&v=4" alt="TensorFlow" title="TensorFlow" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/3979232?s=200&v=4" alt="ROS2" title="ROS2" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/14957082?s=48&v=4" alt="TensorFlow" title="Gymnasium" width="40" height="40"/>
 
   <!-- Operating Systems & DevOps -->
