@@ -3,7 +3,7 @@
 I'm a software engineer focused on Autonomous Systems and AI. I love building things hands on.
 +  📍 I'm based in Modena, Italy
 +  💻 I'm studying for my MSc in Artificial Intelligence Engineering @ [UNIMORE](https://www.unimore.it/en)
-+  🔎 You can see all my projects [here](https://github.com/FilippoGib)
++  🔍 You can see all my projects [here](https://github.com/FilippoGib)
 +  📧 You can contact me directly at [filippogib@gmail.com](filippogib@gmail.com)
 
 ## My skills
@@ -19,9 +19,6 @@ I'm a software engineer focused on Autonomous Systems and AI. I love building th
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 </p>
-
-## GitHub Stats
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilippoGib&show_icons=true&theme=radical)
 
 ## Cool Projects
 - 🔗 [visual_mapper](https://github.com/FilippoGib/visual_mapper) – Visual mapping pipeline tailored for Formula Student applications
