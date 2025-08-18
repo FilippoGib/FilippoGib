@@ -5,7 +5,7 @@ I'm a software engineer focused on Autonomous Systems and Artificial Intelligenc
 ## 🎓 About Me
 - 📍 Based in Modena, Italy  
 - 💻 MSc student in Artificial Intelligence Engineering @ [UNIMORE](https://www.unimore.it/en)  
-- 🔍 Check out all my projects [here](https://github.com/FilippoGib)  
+- 🔍 Check out all my projects [here](https://github.com/FilippoGib?tab=repositories)  
 - 📧 Contact me directly at filippogib@gmail.com
 
 ## 🛠 My Skills
@@ -47,7 +47,7 @@ I'm a software engineer focused on Autonomous Systems and Artificial Intelligenc
 
 - 🔗 [**visual_mapper**](https://github.com/FilippoGib/visual_mapper) – Visual mapping pipeline tailored for Formula Student applications.
 - 🔗 [**new_LQR_control**](https://github.com/FilippoGib/new_LQR_control) – LQR-based control algorithm for line tracking in autonomous vehicles.
-
+- 🔗 [**Smart_Fridge**](https://github.com/FilippoGib/Smart_Fridge) - Intelligent fridge application for food waste reduction and groceries management
 
 
 ## 🔭 Current Focus
