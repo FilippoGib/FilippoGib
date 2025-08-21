@@ -36,7 +36,8 @@ I'm a software engineer focused on Autonomous Systems and Artificial Intelligenc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Slurm_logo.svg/640px-Slurm_logo.svg.png" alt="Slurm" title="Slurm" width="40" height="40"/>
-  
+  <img src="https://avatars.githubusercontent.com/u/2678585?s=200&v=4" alt="Proxmox" title="Proxmox" width="40" height="40"/>
+ 
 </p>
 
 
