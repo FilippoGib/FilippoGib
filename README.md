@@ -31,6 +31,8 @@ I'm a software engineer focused on Autonomous Systems and Artificial Intelligenc
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" title="PyTorch" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/3979232?s=200&v=4" alt="ROS2" title="ROS2" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/14957082?s=48&v=4" alt="TensorFlow" title="Gymnasium" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/26833451?s=200&v=4" alt="Ultralytics" title="Ultralytics" width="40" height="40"/>
+  
 
   <!-- Operating Systems & DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="40" height="40"/>
