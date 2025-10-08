@@ -54,7 +54,7 @@ I'm a software engineer focused on Autonomous Systems and Artificial Intelligenc
 
 
 ## 🔭 Current Focus
-- AD applications for Jetson AGX Orin & Xilink Kria  
+- AD applications for Jetson AGX Orin & AMD Kria  
 - Robotics simulation in Gazebo & ROS2
 
 
