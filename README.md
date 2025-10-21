@@ -54,7 +54,7 @@ I'm a software engineer focused on Autonomous Systems and Artificial Intelligenc
 
 
 ## 🔭 Current Focus
-- Autonomous driving software development
+- [**Autonomous driving software development**](https://github.com/FilippoGib/Autonomous_Driving_Systems) – Implementation of autonomous driving algorithms
 - Robotics simulation in Gazebo & ROS2
 - AI development
 
