@@ -48,15 +48,16 @@ I'm a software engineer focused on Autonomous Systems and Artificial Intelligenc
 
 ## 🚀 Cool Projects
 
-- 🔗 [**visual_mapper**](https://github.com/FilippoGib/visual_mapper) – Visual mapping pipeline tailored for Formula Student applications.
-- 🔗 [**new_LQR_control**](https://github.com/FilippoGib/new_LQR_control) – LQR-based control algorithm for line tracking in autonomous vehicles.
+- 🔗 [**visual_mapper**](https://github.com/FilippoGib/visual_mapper) – Visual mapping pipeline tailored for Formula Student applications
+- 🔗 [**new_LQR_control**](https://github.com/FilippoGib/new_LQR_control) – LQR-based control algorithm for line tracking in autonomous vehicles
 - 🔗 [**Smart_Fridge**](https://github.com/FilippoGib/Smart_Fridge) - Intelligent fridge application for food waste reduction and groceries management
 
 
 ## 🔭 Current Focus
 - [**Autonomous driving software development**](https://github.com/FilippoGib/Autonomous_Driving_Systems) – Implementation of autonomous driving algorithms
-- Robotics simulation in Gazebo & ROS2
-- AI development
+- [**Chess Engine**](https://github.com/FilippoGib/Chess_Engine) - Implementation of a Deep Learning Chess Engine in python and colab with increasing model complexity
+- Robotics simulation in Gazebo & ROS2, private repos @ [**MMR E-Driverless**](https://github.com/MMR-Electric-Driverless)
+- Personal Development
 
 
 ## 🌐 Other Profiles
